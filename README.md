@@ -1,3 +1,3 @@
 # clog
-golang 
-wapper for uber log
+Golang 
+A Wrapper to use the logger github.com/uber-go/zap
